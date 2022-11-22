@@ -775,7 +775,7 @@
                   <value class="uiWait" uri="default"/>
                 </argument>
                 <argument id="interactionDescription">
-                  <value class="value" valueClass="string">Set the First Name field to {firstVar}</value>
+                  <value class="value" valueClass="string">Set the First Name field to Tom</value>
                 </argument>
                 <argument id="autoRetry"/>
               </arguments>
